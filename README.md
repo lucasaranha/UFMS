@@ -9,5 +9,5 @@
 
 
 Redes Sociais:
-[Twitter](www.twitter.com/mengoluks)
-[dev.to](www.dev.to/lucasaranha)
+[Twitter](www.twitter.com/mengoluks).  
+[dev.to](www.dev.to/lucasaranha).  
