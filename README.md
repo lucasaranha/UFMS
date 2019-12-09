@@ -8,6 +8,6 @@
 
 
 
-Redes Sociais:
+Redes Sociais:  
 [Twitter](www.twitter.com/mengoluks).  
 [dev.to](www.dev.to/lucasaranha).  
