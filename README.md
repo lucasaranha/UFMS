@@ -1,4 +1,4 @@
-# Documentar a pasta
+# Disciplinas
+## Este repositório será constantemente atualizado.
 
-**Disciplinas:**
 	**Algoritmos e Programação**
