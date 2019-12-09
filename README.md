@@ -1,2 +1,0 @@
-# UFMS
-Academic projects
