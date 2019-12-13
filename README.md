@@ -1,7 +1,7 @@
 # Disciplinas
 ## Este repositório será constantemente atualizado.
 
-![Alt Text](https://i.imgur.com/oUO7qPX.png)
+![Alt Text](https://i.imgur.com/B88poD3.png)
 
 
 *Algoritmos e Programação*  
