@@ -1,9 +1,11 @@
 #include <stdio.h>
+//#include <string.h>
+//#include <stdlib.h>
 int main(void){
 	double salario;
 	char opcao;
-		scanf("%lf", &salario);
-		scanf("%s", &opcao);
+		printf("Digite o seu salário e a opção de bônus recebida: ");
+		scanf("%lf %c", &salario, &opcao);
 
 		if(opcao == 'A'){
 			salario = salario+(salario*0.10);
