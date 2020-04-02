@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <locale.h>
 #include <string.h>
+#include <stdlib.h>
 int main(void){
 	setlocale(LC_ALL, "Portuguese");
 	int dias;
@@ -8,13 +9,13 @@ int main(void){
 	double diaria, despesaTotal, telefone, televisao;
 	telefone = televisao = 0;
 		printf("Digite a quantidade de dias hospedado: ");
-		scanf("%d", &dias);
+		scanf(" %d", &dias);
 		printf("\nQual o tipo de quarto? ");
-		scanf("%c", &opcao_quarto);
+		scanf("%s", &opcao_quarto);
 		printf("\nO paciente usou o telefone? ");
-		scanf("%c", &tel);
+		scanf("%s", &tel);
 		printf("\nUtilizou a televisão? ");
-		scanf("%c", &tv);
+		scanf("%s", &tv);
 		char copia = opcao_quarto;	
 			switch(copia){
 				case 'P':
