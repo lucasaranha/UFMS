@@ -1,3 +1,7 @@
+/*	Nome: Lucas Aranha
+	Data: 02-04-2020
+	Objetivo: Esse programa faz a soma entre números primos de um determinado intervalo, definido pelo usuário */
+
 #include <stdio.h>
 int main(void){
 	int numero1, numero2;
