@@ -15,6 +15,7 @@ int main(void){
 			}
 			++i;
 			++j;
+
 			resultado = 0;
 			if(j == numero && resultado != numero) printf("Não é triângular\n");
 		}
