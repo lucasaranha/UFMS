@@ -12,7 +12,7 @@ int main(void){
 		conta_numero = conta;
 			while(conta > 0){
 				aux = conta%10; 
-				//printf("VALOR DO AUX: %d \n\n\n", aux);
+				//printf("VALOR DE CONTA: %d \n\n\n", conta);
 				inverso += aux;
 				conta = conta/10;
 			}
