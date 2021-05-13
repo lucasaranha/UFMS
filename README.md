@@ -1,3 +1,1 @@
-# Disciplinas
-
-*Algoritmos e Programação*  
+Diretório de disciplinas da graduação =p.
